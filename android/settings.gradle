@@ -1,0 +1,3 @@
+rootProject.name = 'PracticeLab'
+
+include ':app'
